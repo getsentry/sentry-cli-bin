@@ -1,0 +1,9 @@
+sentry-cli-Windows-x86_64.exe filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Darwin-arm64 filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Darwin-x86_64 filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Linux-x86_64 filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Windows-i686.exe filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Darwin-universal filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Linux-aarch64 filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Linux-armv7 filter=lfs diff=lfs merge=lfs -text
+sentry-cli-Linux-i686 filter=lfs diff=lfs merge=lfs -text
